@@ -1,0 +1,27 @@
+body {
+        background-color: rgb(96, 163, 163);
+        background-image: url(/home/winnie/Pictures/africana2.jpg)  ;
+        background-color: #cccccc;
+        height: 500px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        color: white;
+
+      }
+#fm{
+    font-style: italic;
+}
+h1{
+    color: #000000;
+}
+#login label{
+color: black;
+font-size: 20px;
+}
+#register label{
+    color: black;
+    font-size: 20px;
+}
+}
